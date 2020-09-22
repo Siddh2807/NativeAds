@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NativeAds</string>
+    <string name="native_ad_unit_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="hello_ads_by_google">Hello Ads by Google</string>
+    <string name="native_express_ad">Native Express Ad!</string>
+</resources>
